@@ -1,4 +1,4 @@
-# desafio-01-docker-fc
+# Docker Full Cycle Challenge One
 
 # Downloading the image
   docker pull sammarck/desafio-01-docker-fc
